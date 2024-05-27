@@ -1,0 +1,20 @@
+@charset "uft-8";
+.bg-royalblue{
+    background-color: royalblue;
+}
+.bg-teal{
+    background-color: teal;
+}
+#bg-yellow{
+    background-color: yellow;
+}
+.text-brown{
+    color: brown;
+}
+.bg-orange{
+    background-color: orange;
+}
+span{
+    border: 2px dotted brown;
+    background-color: orchid;
+}
