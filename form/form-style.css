@@ -1,0 +1,17 @@
+@charset "uft-8";
+
+fieldset {
+    margin: 1.5rem;
+}
+
+input[type] {
+    margin: 0.5rem;
+}
+
+input[type="password"] {
+    border: 1px red solid;
+}
+
+a {
+    font-size: 0.7rem;
+}
