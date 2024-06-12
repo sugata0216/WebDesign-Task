@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+.bg-red {
+    background-color: red;
+    border-radius: 10%;
+    font-size: 20%;
+}
+
+.fs {
+    font-size: 20%;
+}
+
+.item {
+    text-align: left;
+    vertical-align: top;
+    background-color: gray;
+    color: white;
+}
+
+.input_field {
+    text-align: left;
+    vertical-align: top;
+    background-color: lightgray;
+}
